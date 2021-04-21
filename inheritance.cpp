@@ -1,4 +1,4 @@
-#include<iostream> //bentuk inheritance
+#include<iostream> 
 
 using namespace std;
 
